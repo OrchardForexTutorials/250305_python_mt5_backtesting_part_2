@@ -1,13 +1,11 @@
 # Python MT5 Backtesting Part 2
 
 <!-- START_HEADER -->
-
 Youtube:  
 https://youtu.be/_1wat5P6B3A
 
 For a broker with fast execution and tight spreads sign up to IC Markets using our affiliate link <br>
 https://orchardforex.com/ic
-
 <!-- END_HEADER -->
 
 I'm taking a simple strategy and developing a structure where a Python trading robot can be backtested and run live on MetaTrader.
